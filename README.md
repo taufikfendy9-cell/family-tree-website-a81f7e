@@ -1,4 +1,4 @@
-# The Hartwell Family
+# The SUPO PARINI FAMILY
 
 A family website for the Hartwell family — four generations rooted at Oakridge Farm. The landing page features the extended-family portrait and the family name, with five icon tiles that each open their own page:
 
