@@ -9,9 +9,9 @@ import {
 } from 'lucide-react'
 
 export const family = {
-  surname: 'Hartwell',
+  surname: 'SUPO PARINI',
   established: 1952,
-  homestead: 'Oakridge Farm, Cotswolds',
+  homestead: 'CILACAP, Kalikdui',
   motto: 'Rooted together, growing apart, always coming home.',
   intro:
     'Four generations, one old oak tree, and a long table that keeps getting longer. This is where we keep our photographs, plans, news, and the stories we want our grandchildren to know.',
